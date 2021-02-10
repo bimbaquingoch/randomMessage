@@ -14,7 +14,15 @@
   "author": "Bryan Imbaquingo",
   "license": "MIT",
   "bin": {
-    "random-message": "./bin/global.js"
+    "random-message": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimbaquingoch/randomMessage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bimbaquingoch/randomMessage/issues"
+  },
+  "homepage": "https://github.com/bimbaquingoch/randomMessage#readme"
 }
