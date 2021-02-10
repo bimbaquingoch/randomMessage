@@ -12,7 +12,7 @@
     "npm"
   ],
   "author": "Bryan Imbaquingo",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "random-message": "./bin/global.js"
   },
